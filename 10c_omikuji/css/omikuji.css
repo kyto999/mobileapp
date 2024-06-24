@@ -49,6 +49,7 @@ header{
     text-align: center;
 }
 .back{
+    position: absolute;
     text-align: left;
 }
 #btn99{
